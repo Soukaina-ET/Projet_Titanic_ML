@@ -83,10 +83,10 @@ PROJET TITANIC/
 - Matrice de corrélation
 
 #### Visualisations de Survie
-![Analyse de Survie](Screenshots/visualisation.png)
+![Analyse de Survie](visualisation.png)
 
 #### Matrice de Corrélation
-![Matrice de Corrélation](Screenshots/MatrixCorrelation.png)
+![Matrice de Corrélation](MatrixCorrelation.png)
 
 ### 2. **Feature Engineering**
 Création de nouvelles features :
